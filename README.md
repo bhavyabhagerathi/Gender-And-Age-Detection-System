@@ -20,6 +20,5 @@ Age and gender detection are the determination of the age and gender of the peop
 * **Libraries** : NumPy, Pandas, Matplotlib, Seaborn,Keras, tqdm
 * **IDE** : Google Colab
 * **Dataset** : UTKFace (Kaggle : https://www.kaggle.com/datasets/jangedoo/utkface-new)
-## Demo Video Link
-
-## LinkedIn Post Link
+## LinkedIn Post Link with Demo Video
+https://www.linkedin.com/posts/bhavya-bhageerathi-575b32281_datascience-codeclauseproject-genderandagedetection-activity-7092581418341433344-azcp?utm_source=share&utm_medium=member_desktop
